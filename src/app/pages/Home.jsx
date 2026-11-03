@@ -38,7 +38,7 @@ export default function Home() {
         <div className="hero-overlay" />
         <div className="container position-relative">
           <div className="row min-vh-100 align-items-center">
-            <div className="col-lg-8 col-xl-7 hero-content">
+            <div className="col-lg-7 col-xl-6 hero-content">
               <div className="hero-glass">
                 <span className="overline">Qarant Əmlak • Bakı</span>
                 <h1>Əmlak qərarınızın <em>etibarlı ünvanı.</em></h1>
