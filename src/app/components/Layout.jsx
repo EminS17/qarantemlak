@@ -35,7 +35,7 @@ export default function Layout() {
                 <NavLink className="nav-link" to="/haqqimizda">Haqqımızda</NavLink>
                 <NavLink className="nav-link" to="/xidmetler">Xidmətlər</NavLink>
                 <NavLink className="nav-link" to="/elaqe">Əlaqə</NavLink>
-                <a className="nav-phone" href="tel:+994505555555"><Icon name="phone" size={17} /> +994 50 555 55 55</a>
+                <a className="nav-phone" href="tel:+994993044430"><Icon name="phone" size={17} /> +994 99 304 44 30</a>
               </div>
             </div>
           </nav>
