@@ -4,9 +4,9 @@ import PageHero from '../components/PageHero';
 const image = 'https://images.unsplash.com/photo-1707189856923-46dd41ea2bdc?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&q=87&w=2000';
 
 const socials = [
-  ['instagram', 'Instagram', '@qarantemlak', 'https://instagram.com/'],
-  ['whatsapp', 'WhatsApp', '+994 50 555 55 55', 'https://wa.me/994505555555'],
-  ['tiktok', 'TikTok', '@qarantemlak', 'https://tiktok.com/'],
+  ['instagram', 'Instagram', '@qarantemlak', 'https://www.instagram.com/qarantemlak/'],
+  ['whatsapp', 'WhatsApp', '+994 99 304 44 30', 'https://wa.me/994993044430'],
+  ['tiktok', 'TikTok', '@qarant_emlak', 'https://www.tiktok.com/@qarant_emlak'],
 ];
 
 export default function Contact() {
@@ -21,7 +21,7 @@ export default function Contact() {
               <h2 className="section-title">Sizə uyğun vaxtda <em>yanınızdayıq.</em></h2>
               <p className="text-muted-custom mb-5">Əmlakla bağlı sualınız üçün bizə zəng edə, e-poçt göndərə və ya sosial şəbəkələrdən yaza bilərsiniz.</p>
               <div className="contact-list">
-                <a href="tel:+994505555555"><span><Icon name="phone" /></span><div><small>Telefon</small><strong>+994 50 555 55 55</strong></div></a>
+                <a href="tel:+994993044430"><span><Icon name="phone" /></span><div><small>Telefon</small><strong>+994 99 304 44 30</strong></div></a>
                 <a href="mailto:info@qarantemlak.az"><span><Icon name="mail" /></span><div><small>E-poçt</small><strong>info@qarantemlak.az</strong></div></a>
                 <div><span><Icon name="map" /></span><div><small>Ünvan</small><strong>Bakı şəhəri, Azərbaycan</strong></div></div>
                 <div><span><Icon name="clock" /></span><div><small>İş saatları</small><strong>B.e. – Şənbə, 09:00–19:00</strong></div></div>
